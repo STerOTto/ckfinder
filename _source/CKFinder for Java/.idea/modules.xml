@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CKFinder/CKFinder.iml" filepath="$PROJECT_DIR$/CKFinder/CKFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApp/CKFinderJava.iml" filepath="$PROJECT_DIR$/WebApp/CKFinderJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileEditorPlugin/CKFinderPlugin-FileEditor.iml" filepath="$PROJECT_DIR$/FileEditorPlugin/CKFinderPlugin-FileEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageResizePlugin/CKFinderPlugin-ImageResize.iml" filepath="$PROJECT_DIR$/ImageResizePlugin/CKFinderPlugin-ImageResize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WatermarkPlugin/CKFinderPlugin-Watermark.iml" filepath="$PROJECT_DIR$/WatermarkPlugin/CKFinderPlugin-Watermark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent.iml" filepath="$PROJECT_DIR$/Parent.iml" />
+    </modules>
+  </component>
+</project>
